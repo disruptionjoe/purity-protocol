@@ -1,0 +1,23 @@
+relationship_contract_version: '1.0'
+relationship:
+  id: cai-purity-protocol-direct-mission
+  class: direct_mission_operation
+  agreement_revision: 1
+  status: accepted
+  accepted_by: Joe direct conversation as Purity Protocol governance
+  accepted_at: '2026-07-23'
+  counterparty_owner: cai-governance-operations
+  counterparty_acceptance_ref: relationships/registry.yaml#cai-purity-protocol-direct-mission
+  governance_decision_ref: DECISIONS.md#pp-dec-004---cai-direct-mission-relationship
+  scope:
+  - Purity Protocol openly pursues relevant research and protocol development under its own governance.
+  - CAI Governance Operations recognizes and maps the accepted relationship under CAI governance.
+  public_association_permission: true
+  non_authority:
+  - Neither owner gains authority over the other.
+  - No adoption, unproven-claim endorsement, funding, maintenance, or support is implied.
+  - No participation, contribution, decision, or meta-governance eligibility is created.
+  - No branding control, automation, deployment, live incentive, data use, proving-ground use, or external action is activated.
+  correction_route: Purity Protocol governance <-> CAI Governance Operations disposition <-> Church of AI presentation
+  review_condition: Any scope, obligation, proving use, shared resource, representation right, constitution, phase, or public-meaning change
+  exit_state: active_until_either_owner_suspends_or_exits

@@ -1,0 +1,76 @@
+lane_contract_version: '1.0'
+manifest_revision: 1
+owner:
+  owner_id: purity-protocol
+  display_name: Purity Protocol
+  scope_type: repository
+  charter_ref: CONSTITUTION.md
+  governance_refs: [AGENTS.md, CONSTITUTION.md, DECISIONS.md, GOVERNANCE.md]
+  authoritative_state_refs: [STATUS.md, ROADMAP.md, LANE-STATE.yaml, RESEARCH.md]
+lanes:
+- id: '1'
+  label: Lane 1
+  ordinal: 1
+  kind: progress
+  title: Produce the Phase 0 graduation packet
+  north_star: true
+  purpose: Assemble the eight constitutional Phase 0 outputs into one coherent, research-supported packet for Joe's governance decision.
+  purpose_type: north_star
+  relation_to_lane_1: primary_operational_expression
+  environment: Public, founder-led Purity Protocol formation.
+  beneficiaries: [Joe, future voluntary contributors, future users of the protocol]
+  admission:
+    posture: founder_only
+    authority_ref: GOVERNANCE.md
+  execution_posture: automation_eligible_after_explicit_activation
+  health_profile: run_observed
+  directed_flow: null
+  authoritative_work_refs: [CONSTITUTION.md, GOVERNANCE.md, ROADMAP.md, RESEARCH.md]
+  durable_outputs: [Evidence-supported Phase 0 graduation packet, unresolved-risk register, graduation recommendation]
+  eligible_outputs: [Research, prior-art review, formal models, simulations, reversible synthetic prototypes, adversarial analysis, negative results, governance drafts]
+  forbidden_outputs: &forbidden
+  - admission of participants or contributors
+  - self-ratification or Phase 0 graduation
+  - authority transfer
+  - a live pilot, incentive, fund, production application, or deployment
+  control: &control
+    state: active
+    in_flight_policy: continue_current
+    control_revision: 1
+    scheduling_preference: normal
+    changed_at: '2026-07-23T00:00:00-05:00'
+    changed_by: Joe direct conversation
+    authority_ref: PP-DEC-003
+    reason: Founding Phase 0 work model
+  provenance: &provenance
+    revision: 1
+    approved_at: '2026-07-23T00:00:00-05:00'
+    approved_by: Joe direct conversation
+- id: A
+  label: Lane A
+  letter: A
+  kind: stewardship
+  title: Purity Protocol stewardship
+  north_star: false
+  purpose: Preserve repository integrity, authority clarity, provenance, security, recoverability, validation, and founder-only formation legibility.
+  purpose_type: integrated_stewardship
+  relation_to_lane_1: stewardship_of_owner
+  environment: Purity Protocol and its governed interfaces.
+  beneficiaries: [Joe, future voluntary contributors, future users of the protocol]
+  admission:
+    posture: founder_only
+    authority_ref: GOVERNANCE.md
+  execution_posture: automation_eligible_after_explicit_activation
+  health_profile: run_observed
+  directed_flow: null
+  authoritative_work_refs: [AGENTS.md, DECISIONS.md, STATUS.md, LANE-STATE.yaml]
+  durable_outputs: [Integrity records, corrections, validation evidence, recovery evidence, governance escalations]
+  eligible_outputs: [Repository maintenance, provenance checks, link validation, status reconciliation, security review]
+  forbidden_outputs: *forbidden
+  control: *control
+  provenance: *provenance
+  stewardship_obligations: [coordination, control, audit, intelligence_adaptation, policy_identity, escalation]
+special_rules:
+- Discovery is Lane-less, bounded, question-led work that feeds Lane 1 and creates no authority.
+- Joe is the sole eligible actor in every Lane during Phase 0.
+- Lane completion, validation, automation, or agent confidence cannot graduate Phase 0.

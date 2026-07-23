@@ -1,0 +1,25 @@
+lane_state_version: '1.0'
+owner_id: purity-protocol
+manifest_revision: 1
+updated: '2026-07-23'
+updated_by: Joe direct conversation
+lanes:
+  '1':
+    state: active
+    current_objective: Produce an evidence-supported Phase 0 graduation packet for governance review.
+    phase: phase_0_founder_led_formation
+    governance_gate: Joe
+    graduation_authorized: false
+    automation_active: false
+  A:
+    state: active
+    current_objective: Keep the public formation package coherent, safe, recoverable, and traceable.
+    phase: phase_0_founder_led_formation
+    governance_gate: Joe
+    graduation_authorized: false
+    automation_active: false
+discovery:
+  lane_less: true
+  posture: bounded
+  disposition: feeds_lane_1
+  creates_authority: false
