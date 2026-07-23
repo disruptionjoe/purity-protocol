@@ -4,7 +4,7 @@ Phase: **Phase 0 - founder-led formation**
 Authority: **Joe**  
 Constitution revision: **1**  
 Participation: **closed**  
-Automation: **inactive during establishment validation**  
+Automation: **active through the existing `cai_directed` Repository Work Cycle**
 Last updated: **2026-07-23**
 
 ## What is true now
@@ -17,6 +17,9 @@ Last updated: **2026-07-23**
 - Bounded Lane-less Discovery may feed Lane 1.
 - Purity Protocol and CAI Governance Operations have matching revision 1
   acceptances for a bounded `direct_mission_operation` relationship.
+- Joe activated the existing hourly CAI Repository Work Cycle for Lane 1,
+  Lane A, mailbox processing, and bounded Discovery. Repository governance and
+  CapacityOS safety remain deny-wins constraints on every run.
 
 ## What is not live
 
@@ -28,13 +31,8 @@ or Phase 0 graduation.
 No mechanism claim has been established. Pairwise comparison, confidence
 elicitation, peer prediction, issuance, and other designs remain hypotheses.
 
-## Next governance return
+## Current automation boundary
 
-After establishment validation, Joe receives:
-
-- the founding package and validation evidence;
-- the direct-mount synthetic walkthrough;
-- cross-repository relationship and listing verification; and
-- an exact proposed automation enablement scope.
-
-Validation does not activate automation or expand authority.
+Automation creates launch opportunities, not authority or a requirement to
+invent work. It cannot graduate Phase 0, admit anyone, transfer authority, or
+activate any item listed under "What is not live."

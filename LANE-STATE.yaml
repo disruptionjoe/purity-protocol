@@ -1,6 +1,6 @@
 lane_state_version: '1.0'
 owner_id: purity-protocol
-manifest_revision: 1
+manifest_revision: 2
 updated: '2026-07-23'
 updated_by: Joe direct conversation
 lanes:
@@ -10,16 +10,17 @@ lanes:
     phase: phase_0_founder_led_formation
     governance_gate: Joe
     graduation_authorized: false
-    automation_active: false
+    automation_active: true
   A:
     state: active
     current_objective: Keep the public formation package coherent, safe, recoverable, and traceable.
     phase: phase_0_founder_led_formation
     governance_gate: Joe
     graduation_authorized: false
-    automation_active: false
+    automation_active: true
 discovery:
   lane_less: true
   posture: bounded
   disposition: feeds_lane_1
   creates_authority: false
+  automation_active_inside_regular_cycle: true

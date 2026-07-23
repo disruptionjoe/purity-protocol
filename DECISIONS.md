@@ -92,3 +92,22 @@ replacement. Ordinary decisions cannot amend the Constitution.
 - Consequence: automation begins inactive and returns to Joe as a concrete
   enablement proposal; inactivity is not a constitutional posture
 - Supersedes: none
+
+## PP-DEC-006 - Activate the existing CAI Repository Work Cycle
+
+- Date: 2026-07-23
+- Class: ordinary reversible integration decision
+- Authority: Joe direct conversation
+- Status: ratified and active
+- Scope: enroll `purity-protocol` as an active `cai_directed` owner in the
+  existing hourly Repository Work Cycle for Lane 1 progress, mailbox
+  processing, due Lane A stewardship, and bounded Lane-less Discovery
+- Reason: establishment validation passed and the existing governed cycle can
+  advance Phase 0 without adding another automation surface
+- Consequence: Runtime may launch bounded repository-local work under
+  deny-wins governance; no scheduler, trigger, workflow, cadence, external
+  action, participant right, authority transfer, Phase 0 graduation, live
+  mechanism, pilot, app, incentive, fund, real-data use, or deployment is
+  created
+- Supersedes: the inactive establishment posture in `PP-DEC-005`; its
+  historical validation gate remains preserved

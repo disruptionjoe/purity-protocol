@@ -112,3 +112,10 @@ No automation was activated by this run. The proposed next decision is:
 
 Joe may approve, revise, or reject this proposal. Validation and repository
 relationship status are not activation authority.
+
+### Activation disposition
+
+Joe approved the exact proposal in direct conversation on 2026-07-23.
+`PP-DEC-006` activates Purity Protocol through the existing `cai_directed`
+Repository Work Cycle with the scope, purposes, restrictions, and exclusions
+above. No new automation definition was created.

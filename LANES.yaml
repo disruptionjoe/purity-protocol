@@ -1,5 +1,5 @@
 lane_contract_version: '1.0'
-manifest_revision: 1
+manifest_revision: 2
 owner:
   owner_id: purity-protocol
   display_name: Purity Protocol
@@ -22,7 +22,7 @@ lanes:
   admission:
     posture: founder_only
     authority_ref: GOVERNANCE.md
-  execution_posture: automation_eligible_after_explicit_activation
+  execution_posture: automation_eligible
   health_profile: run_observed
   directed_flow: null
   authoritative_work_refs: [CONSTITUTION.md, GOVERNANCE.md, ROADMAP.md, RESEARCH.md]
@@ -36,14 +36,14 @@ lanes:
   control: &control
     state: active
     in_flight_policy: continue_current
-    control_revision: 1
+    control_revision: 2
     scheduling_preference: normal
     changed_at: '2026-07-23T00:00:00-05:00'
     changed_by: Joe direct conversation
-    authority_ref: PP-DEC-003
-    reason: Founding Phase 0 work model
+    authority_ref: PP-DEC-006
+    reason: Phase 0 work model with Joe-authorized CAI Repository Work Cycle activation
   provenance: &provenance
-    revision: 1
+    revision: 2
     approved_at: '2026-07-23T00:00:00-05:00'
     approved_by: Joe direct conversation
 - id: A
@@ -60,7 +60,7 @@ lanes:
   admission:
     posture: founder_only
     authority_ref: GOVERNANCE.md
-  execution_posture: automation_eligible_after_explicit_activation
+  execution_posture: automation_eligible
   health_profile: run_observed
   directed_flow: null
   authoritative_work_refs: [AGENTS.md, DECISIONS.md, STATUS.md, LANE-STATE.yaml]

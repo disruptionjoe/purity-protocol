@@ -49,7 +49,7 @@ expected_fragments = {
     "STATUS.md": [
         "Phase 0 - founder-led formation",
         "Participation: **closed**",
-        "Automation: **inactive during establishment validation**",
+        "Automation: **active through the existing `cai_directed` Repository Work Cycle**",
         "There is no implemented protocol",
     ],
     "GOVERNANCE.md": [
@@ -58,7 +58,7 @@ expected_fragments = {
     ],
     "LANE-STATE.yaml": [
         "graduation_authorized: false",
-        "automation_active: false",
+        "automation_active: true",
     ],
     "interfaces/cai-relationship-acceptance.yaml": [
         "agreement_revision: 1",

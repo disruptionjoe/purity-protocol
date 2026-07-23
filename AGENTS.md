@@ -46,9 +46,12 @@ When routed through CapacityOS, the System-owned steward and mailbox may narrow
 integration behavior but never broaden repository authority or replace local
 truth.
 
-Automation is inactive during establishment validation. Successful validation
-does not activate it. Any later activation requires Joe's explicit governance
-decision defining the exact scope.
+Joe activated the existing `cai_directed` Repository Work Cycle scope on
+2026-07-23. It may support Lane 1 progress, due Lane A stewardship, mailbox
+processing, and bounded Lane-less Discovery. It creates no new scheduler,
+trigger, workflow, cadence, external-action authority, or governance right.
+Every run remains narrowed by the repository's authority hierarchy and the
+CapacityOS deny-wins safety intersection.
 
 Before writes, resolve `git rev-parse --git-path capacityos-writer.lock`. If
 that path exists, stop unless the active approved run owns it. Never discard
