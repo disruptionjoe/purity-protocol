@@ -65,7 +65,7 @@ The current baseline is **Established here** from `CONSTITUTION.md`,
 | 3 | Evidence-gated progressive-decentralization roadmap | **Partial** | `ROADMAP.md#Evidence-gated decentralization direction`; `RESEARCH.md#Governance and capture resistance` | Define candidate states, sequence, evidence thresholds, stop conditions, and legitimate transfer methods without activating them. |
 | 4 | Constitutional and policy rule tiers with amendment processes | **Partial** | `CONSTITUTION.md#Amendment`; `GOVERNANCE.md#Rule tiers`; `DECISIONS.md#Decision method` | Determine whether more tiers are needed and classify unresolved future rules. |
 | 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below; eight-dimension evidence matrix in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md#Real-Reversibility Evidence Matrix` | Test the dimensions against sourced rights, consent, threat, and operating evidence for a proposed future state; the analytical matrix is not proof of reversibility. |
-| 6 | Consent, exit, fork, and attributable-creation principles | **Partial** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability` | Define operational disclosures, retained rights, records, obligations, appeals, and portability limits. |
+| 6 | Consent, exit, fork, and attributable-creation principles | **Partial; analytical failure cases now explicit** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability`; `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md` | Test the highest-risk cases synthetically, then define operational disclosures, retained rights, records, obligations, review and appeal boundaries, and portability limits without treating access revocation as full reversal. |
 | 7 | Research agenda for mechanisms, funding, capture resistance, and unresolved rights | **Established here as an agenda; answers unknown** | `RESEARCH.md` | Prioritize inquiries, state methods and evidence standards, and preserve negative results. |
 | 8 | First eligibility-expansion gate | **Partial evidence specification; no gate defined** | required shape in `GOVERNANCE.md#Eligibility changes`; analytical requirements and not-decision-ready disposition in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` | Resolve or explicitly disposition the eight evidence bundles, then draft a separate gate for Joe's review. The specification is not a gate, proposal, satisfaction finding, or activation. |
 
@@ -100,7 +100,7 @@ or consent reversal. Future gate work must keep those dimensions separate.
 | System-native issuance or another funding mechanism is sustainable and legitimate | **Hypothesized** | Unit-of-account definition, distributional analysis, capture/extraction tests, alternatives, and governance authority. |
 | Eligibility expansion stays within metabolic capacity | **Unknown** | The evidence bundles in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` require observable capacity indicators, leading and stop thresholds, review intervals, and separate reversibility limits; none is yet established. |
 | Constraint-first protocol law preserves adaptability | **Hypothesized** | Comparative rule designs, edge cases, exploit analysis, amendment behavior, and no-go evidence. |
-| Exit with attributable creation is meaningful | **Unknown** | Rights model covering records, names, reputation, data, obligations, jointly created assets, and portability. |
+| Exit with attributable creation is meaningful | **Unknown; internal failure paths mapped** | `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md` identifies synthetic public-history, withdrawal, attribution, review, and joint-creation failures; a rights model still must cover records, names, reputation, data, obligations, jointly created assets, and portability. |
 | Documentation, specification, contribution, and patent rights are safe enough for outside effort | **Unknown** | Chosen rights posture, legal review where necessary, provenance process, contributor disclosure, and explicit adoption decision. |
 | Founder-to-broader authority transfer can resist both immediate capture and permanent founder control | **Hypothesized** | Candidate sequence, legitimacy criteria, independent challenge, concentration measures, and real reversal analysis. |
 
@@ -125,6 +125,13 @@ Before a concrete gate is proposed, Lane 1 should at minimum:
    satisfied.
 
 This is a work specification, not a gate and not an eligibility proposal.
+
+The repository-internal consent, exit, review, and appeal failure-case matrix
+now pressure-tests requirement 4 against synthetic authority confusion, scope
+drift, review concentration, withdrawal after public reliance, provenance
+failure, and jointly created work. It leaves output 6 **Partial** and the gate
+not decision-ready because no active terms, rights posture, legal review,
+capacity thresholds, real consent evidence, or reversibility proof exists.
 
 ## Graduation Decision Surface
 
@@ -152,6 +159,7 @@ Authoritative and current sources used:
 - `ROADMAP.md`
 - `RESEARCH.md`
 - `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md`
+- `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`
 - `FOUNDING-INTENTIONS.md` as intent evidence, not protocol specification
