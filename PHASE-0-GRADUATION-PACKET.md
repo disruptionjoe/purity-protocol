@@ -64,13 +64,15 @@ The current baseline is **Established here** from `CONSTITUTION.md`,
 | 2 | Explicit rules for effort, decision voice, and meta-governance voice | **Established here for Phase 0** | `CONSTITUTION.md#Present authority and eligibility`; `GOVERNANCE.md#Current governor` | Expansion rules and qualification methods remain undefined. |
 | 3 | Evidence-gated progressive-decentralization roadmap | **Partial** | `ROADMAP.md#Evidence-gated decentralization direction`; `RESEARCH.md#Governance and capture resistance` | Define candidate states, sequence, evidence thresholds, stop conditions, and legitimate transfer methods without activating them. |
 | 4 | Constitutional and policy rule tiers with amendment processes | **Partial** | `CONSTITUTION.md#Amendment`; `GOVERNANCE.md#Rule tiers`; `DECISIONS.md#Decision method` | Determine whether more tiers are needed and classify unresolved future rules. |
-| 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below | Extend the matrix across software, data, economics, reputation, governance, consent, and retained creation for proposed future states. |
+| 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below; eight-dimension evidence matrix in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md#Real-Reversibility Evidence Matrix` | Test the dimensions against sourced rights, consent, threat, and operating evidence for a proposed future state; the analytical matrix is not proof of reversibility. |
 | 6 | Consent, exit, fork, and attributable-creation principles | **Partial** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability` | Define operational disclosures, retained rights, records, obligations, appeals, and portability limits. |
 | 7 | Research agenda for mechanisms, funding, capture resistance, and unresolved rights | **Established here as an agenda; answers unknown** | `RESEARCH.md` | Prioritize inquiries, state methods and evidence standards, and preserve negative results. |
-| 8 | First eligibility-expansion gate | **Unknown / not defined** | required shape in `GOVERNANCE.md#Eligibility changes` | Draft one decision-ready gate naming the class, eligibility method, evidence, rights, risks, indicators, reversibility, and separate activation decision. |
+| 8 | First eligibility-expansion gate | **Partial evidence specification; no gate defined** | required shape in `GOVERNANCE.md#Eligibility changes`; analytical requirements and not-decision-ready disposition in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` | Resolve or explicitly disposition the eight evidence bundles, then draft a separate gate for Joe's review. The specification is not a gate, proposal, satisfaction finding, or activation. |
 
 No row marked **Established here** implies that Phase 0 as a whole is
 complete. Outputs 3-6 and 8 prevent a graduation recommendation at present.
+The evidence specification makes outputs 5 and 8 more legible; it does not
+upgrade the readiness of either output beyond **Partial**.
 
 ## Current Authority and Reversibility Matrix
 
@@ -96,7 +98,7 @@ or consent reversal. Future gate work must keep those dimensions separate.
 | Sybil behavior, collusion, farming, conformity, strategic ignorance, and model manipulation | **Unknown** | Threat model, bounded synthetic tests, failure criteria, and preserved negative results. |
 | Paid participation produces useful rather than noisy signal | **Hypothesized** | Defined signal target, comparison baseline, incentive model, adversarial tests, and stop indicators. |
 | System-native issuance or another funding mechanism is sustainable and legitimate | **Hypothesized** | Unit-of-account definition, distributional analysis, capture/extraction tests, alternatives, and governance authority. |
-| Eligibility expansion stays within metabolic capacity | **Unknown** | Observable capacity indicators, leading and stop thresholds, review interval, and rollback limits. |
+| Eligibility expansion stays within metabolic capacity | **Unknown** | The evidence bundles in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` require observable capacity indicators, leading and stop thresholds, review intervals, and separate reversibility limits; none is yet established. |
 | Constraint-first protocol law preserves adaptability | **Hypothesized** | Comparative rule designs, edge cases, exploit analysis, amendment behavior, and no-go evidence. |
 | Exit with attributable creation is meaningful | **Unknown** | Rights model covering records, names, reputation, data, obligations, jointly created assets, and portability. |
 | Documentation, specification, contribution, and patent rights are safe enough for outside effort | **Unknown** | Chosen rights posture, legal review where necessary, provenance process, contributor disclosure, and explicit adoption decision. |
@@ -105,8 +107,12 @@ or consent reversal. Future gate work must keep those dimensions separate.
 ## First Eligibility-Gate Work Still Required
 
 A decision-ready gate must satisfy all eight requirements in
-`GOVERNANCE.md#Eligibility changes`. Before a concrete gate is proposed, Lane
-1 should at minimum:
+`GOVERNANCE.md#Eligibility changes`. The current evidence specification selects
+authoritative project effort only as an analytical class and defines a
+hypothetical bounded-research role so that evidence needs can be tested. It
+does not define an eligible role or a gate.
+
+Before a concrete gate is proposed, Lane 1 should at minimum:
 
 1. choose which one of the three eligibility classes is being considered;
 2. define the bounded role and prohibited consequences of that expansion;
@@ -145,9 +151,14 @@ Authoritative and current sources used:
 - `STATUS.md`
 - `ROADMAP.md`
 - `RESEARCH.md`
+- `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`
 - `FOUNDING-INTENTIONS.md` as intent evidence, not protocol specification
+
+Material traceability finding used for this reconciliation:
+
+- `runs/RUN-20260723-203117-discovery.md`
 
 Update or re-evaluate this packet whenever a cited authority, current-state,
 research, gate, rights, or risk surface materially changes. Preserve the claim
