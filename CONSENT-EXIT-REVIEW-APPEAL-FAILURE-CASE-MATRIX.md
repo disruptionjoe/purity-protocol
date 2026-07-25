@@ -120,8 +120,12 @@ No capacity threshold is established here.
 
 These are next analytical tests, not experiments or authorization:
 
-1. **Authority-confusion tabletop:** apply C1 and C3 to a synthetic public
-   draft and test whether every surface preserves non-authoritative status.
+1. **Authority-confusion tabletop:** the current closed-state negative control
+   is executed in `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md`. It shows
+   that the existing hierarchy resolves public visibility, licensing, merge,
+   relationship, automation, fork, and lower-layer decision claims without an
+   implied authority grant, while preserving unresolved rights and real-reader
+   comprehension. Architecture of Legitimacy owns later candidate testing.
 2. **Scope-renewal tabletop:** apply C2 and R2 to a sequence of changing
    research requests and identify the point where fresh bilateral opt-in would
    be required.
@@ -164,8 +168,10 @@ decision-legible by exposing failure paths and a bounded tabletop sequence. It
 does not supply operational terms, thresholds, rights, legal review, actual
 capacity evidence, participant consent, or reversibility proof.
 
-The next safe owner-local branch is to specify and run the
-authority-confusion tabletop with synthetic repository artifacts. The
+The closed-baseline authority-confusion tabletop is complete. The next safe
+owner-local branch is the scope-renewal tabletop, which can test when changed
+questions, sources, or revision requests require fresh bilateral opt-in
+without constructing Architecture of Legitimacy's future-role candidates. The
 source-dependent documentation/specification licensing and
 contribution-provenance comparison remains a hard dependency before any rights
 posture or gate could be proposed.

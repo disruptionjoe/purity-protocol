@@ -61,7 +61,7 @@ The current baseline is **Established here** from `CONSTITUTION.md`,
 | # | constitutional Phase 0 output | current state | evidence | gap before decision-ready |
 |---:|---|---|---|---|
 | 1 | Ratified constitution and authority hierarchy | **Established here** | `CONSTITUTION.md`; `DECISIONS.md#PP-AMD-001`; `AGENTS.md` | Maintain traceability if any higher-layer authority changes. |
-| 2 | Explicit rules for effort, decision voice, and meta-governance voice | **Established here for Phase 0** | `CONSTITUTION.md#Present authority and eligibility`; `GOVERNANCE.md#Current governor` | Expansion rules and qualification methods remain undefined. |
+| 2 | Explicit rules for effort, decision voice, and meta-governance voice | **Established here for Phase 0; closed-baseline authority resolution synthetically tested** | `CONSTITUTION.md#Present authority and eligibility`; `GOVERNANCE.md#Current governor`; `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md` | Expansion rules and qualification methods remain undefined; the synthetic baseline does not prove real-reader comprehension or future-role separation. |
 | 3 | Evidence-gated progressive-decentralization roadmap | **Partial** | `ROADMAP.md#Evidence-gated decentralization direction`; `RESEARCH.md#Governance and capture resistance` | Define candidate states, sequence, evidence thresholds, stop conditions, and legitimate transfer methods without activating them. |
 | 4 | Constitutional and policy rule tiers with amendment processes | **Partial** | `CONSTITUTION.md#Amendment`; `GOVERNANCE.md#Rule tiers`; `DECISIONS.md#Decision method` | Determine whether more tiers are needed and classify unresolved future rules. |
 | 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below; eight-dimension evidence matrix in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md#Real-Reversibility Evidence Matrix` | Test the dimensions against sourced rights, consent, threat, and operating evidence for a proposed future state; the analytical matrix is not proof of reversibility. |
@@ -103,6 +103,7 @@ or consent reversal. Future gate work must keep those dimensions separate.
 | Exit with attributable creation is meaningful | **Unknown; internal failure paths mapped** | `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md` identifies synthetic public-history, withdrawal, attribution, review, and joint-creation failures; a rights model still must cover records, names, reputation, data, obligations, jointly created assets, and portability. |
 | Documentation, specification, contribution, and patent rights are safe enough for outside effort | **Unknown** | Chosen rights posture, legal review where necessary, provenance process, contributor disclosure, and explicit adoption decision. |
 | Founder-to-broader authority transfer can resist both immediate capture and permanent founder control | **Hypothesized** | Candidate sequence, legitimacy criteria, independent challenge, concentration measures, and real reversal analysis. |
+| Current public visibility, code licensing, merged research, relationships, forks, or automation silently create authority | **Not supported in the tested closed-state authority traces; real-reader behavior unknown** | `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md` resolves ten denial cases and one constitutional-change positive control. Future candidate roles still require separate authority, rights, comprehension, and attack testing. |
 
 ## First Eligibility-Gate Work Still Required
 
@@ -140,6 +141,15 @@ failure, and jointly created work. It leaves output 6 **Partial** and the gate
 not decision-ready because no active terms, rights posture, legal review,
 capacity thresholds, real consent evidence, or reversibility proof exists.
 
+The closed-state authority-confusion tabletop executes the first negative
+control from that matrix. The current hierarchy rejects authority by
+visibility, code license, merge, relationship, automation, or fork and exposes
+one valid constitutional-amendment path. This is **Synthetic support** for
+internal authority resolvability only. It does not test a future role
+candidate, establish how a real reader understands the repository, resolve the
+rights warning, or change Architecture of Legitimacy's commissioned research
+ownership.
+
 ## Graduation Decision Surface
 
 Current advisory disposition: **continue Phase 0**.
@@ -167,6 +177,7 @@ Authoritative and current sources used:
 - `RESEARCH.md`
 - `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md`
 - `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`
+- `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`
 - `FOUNDING-INTENTIONS.md` as intent evidence, not protocol specification
