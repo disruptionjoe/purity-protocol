@@ -1,0 +1,38 @@
+dependency_contract_version: '1.0'
+dependency:
+  id: purity-phase-0-first-effort-eligibility-gate
+  status: commissioned
+  commissioned_at: '2026-07-25'
+  commissioned_by: Joe as Purity Protocol governance
+  decision_ref: DECISIONS.md#pp-dec-007---commission-first-effort-eligibility-gate-research
+  research_owner: architecture-of-legitimacy
+  research_engagement_ref: missions/engagements.yaml#AOL-ENG-002
+  exact_decision: Whether a gate for one bounded authoritative research-effort role can become decision-ready while decision and meta-governance voice remain Joe-only.
+  current_phase: founder-led Phase 0; all three eligibility classes Joe-only
+  source_refs:
+  - CONSTITUTION.md
+  - GOVERNANCE.md#eligibility-changes
+  - PHASE-0-GRADUATION-PACKET.md
+  - FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md
+  candidate_scope:
+  - one named bounded research-effort role
+  excluded_effects:
+  - Phase 0 graduation
+  - eligibility or participation activation
+  - decision or meta-governance voice
+  - protocol standing, title, reward, account, credential, or representation
+  - live protocol, pilot, funding, incentive, data use, deployment, or external action
+  evidence_floor:
+  - role and authority separation
+  - qualification and evidence integrity
+  - metabolic capacity
+  - rights, provenance, attribution, licensing, and patent posture
+  - consent, exit, review, appeal, and attributable creation
+  - capture and integrity threats
+  - observability, stop evidence, and real-reversibility limits
+  - separate gate, satisfaction, adoption, and activation decisions
+  required_output: Architecture advisory decision packet comparing remaining closed, a narrower draft-only role, and the strongest bounded authoritative-effort candidate or no-go
+  deciding_authority: Joe as Purity Protocol governance
+  activation: separate gate definition, satisfaction, adoption, and activation decisions; none implied by research completion
+  recheck_on: Any Constitution, Phase 0, eligibility specification, rights posture, Architecture relationship, or request revision change
+  correction_route: Purity Protocol -> Architecture of Legitimacy -> Purity decision record -> CAI Governance and Church mapping correction where needed

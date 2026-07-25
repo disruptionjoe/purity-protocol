@@ -106,6 +106,13 @@ or consent reversal. Future gate work must keep those dimensions separate.
 
 ## First Eligibility-Gate Work Still Required
 
+Purity Protocol commissioned Architecture of Legitimacy through `PP-DEC-007`
+and `interfaces/architecture-of-legitimacy-gate-request.yaml` to perform this
+work as one complete advisory engagement. The commission replaces no
+constitutional output and satisfies no gate. It gives Lane 1 a defined
+research supplier and return packet while preserving Purity's sole authority
+over the Phase 0 packet, gate, satisfaction, adoption, and activation.
+
 A decision-ready gate must satisfy all eight requirements in
 `GOVERNANCE.md#Eligibility changes`. The current evidence specification selects
 authoritative project effort only as an analytical class and defines a

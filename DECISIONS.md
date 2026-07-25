@@ -111,3 +111,25 @@ replacement. Ordinary decisions cannot amend the Constitution.
   created
 - Supersedes: the inactive establishment posture in `PP-DEC-005`; its
   historical validation gate remains preserved
+
+## PP-DEC-007 - Commission first effort-eligibility gate research
+
+- Date: 2026-07-25
+- Class: ordinary reversible research-relationship decision
+- Authority: Joe direct conversation as Purity Protocol governance after
+  unanimous System Council approval
+- Status: ratified and commissioned
+- Scope: commission Architecture of Legitimacy to return an evidence-graded
+  advisory packet for the first bounded authoritative research-effort gate
+- Reason: Phase 0 needs a decision-ready legitimacy architecture rather than a
+  second repository-local accumulation of general scaffolds
+- Consequence: Architecture may analyze the existing eight evidence bundles,
+  compare remaining closed and bounded-role alternatives, test candidates, and
+  propose a gate or no-go; Purity retains Constitution, Phase 0, eligibility,
+  satisfaction, adoption, and activation authority
+- Interface: `interfaces/architecture-of-legitimacy-gate-request.yaml`
+- Exclusions: no Phase 0 graduation, eligibility, participation, decision or
+  meta-governance voice, proving use, pilot, funding, incentive, data use,
+  deployment, or external action
+- Supersedes: none; it operationalizes a research dependency inside the
+  existing Phase 0 work model
