@@ -1,5 +1,5 @@
 lane_contract_version: '1.0'
-manifest_revision: 2
+manifest_revision: 3
 owner:
   owner_id: purity-protocol
   display_name: Purity Protocol
@@ -74,3 +74,11 @@ special_rules:
 - Discovery is Lane-less, bounded, question-led work that feeds Lane 1 and creates no authority.
 - Joe is the sole eligible actor in every Lane during Phase 0.
 - Lane completion, validation, automation, or agent confidence cannot graduate Phase 0.
+extensions:
+  operating_architecture:
+    contract_version: "1.0"
+    operating_contract_refs: ["FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md"]
+    work_state_refs: ["STATUS.md", "ROADMAP.md", "LANE-STATE.yaml", "RESEARCH.md"]
+    channel_contract_refs: []
+    lane_a_portfolio_refs: ["LANE-STATE.yaml"]
+    return_contract_refs: ["FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md"]

@@ -247,3 +247,13 @@ Joe retains every gate, satisfaction, and activation decision. Until a
 separate ratified decision changes repository truth, no non-Joe person is
 eligible to contribute authoritative effort, decision voice, or
 meta-governance voice.
+
+## Operating path
+
+Phase-0 work moves through research, solution design, bounded prototype,
+adversarial review, and founder disposition. The evidence bundle required by
+the object selects any specialized treatment; no treatment weakens the gate.
+
+Lane A keeps dependencies, Unknowns, stop conditions, and open returns visible.
+Technical completion or agent confidence cannot count as eligibility,
+graduation, activation, or downstream use.
