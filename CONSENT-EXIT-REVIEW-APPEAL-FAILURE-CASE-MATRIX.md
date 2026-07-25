@@ -126,9 +126,11 @@ These are next analytical tests, not experiments or authorization:
    relationship, automation, fork, and lower-layer decision claims without an
    implied authority grant, while preserving unresolved rights and real-reader
    comprehension. Architecture of Legitimacy owns later candidate testing.
-2. **Scope-renewal tabletop:** apply C2 and R2 to a sequence of changing
-   research requests and identify the point where fresh bilateral opt-in would
-   be required.
+2. **Scope-renewal tabletop:** executed as a closed-baseline synthetic control
+   in `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md`. It resolves cosmetic edits,
+   changed questions, sources, claim states, model assistance, review delay,
+   and withdrawal into continuation, fresh hypothetical opt-in, or a separate
+   stop/governance boundary. It establishes no active consent process or role.
 3. **Exit-with-public-history tabletop:** apply E1 through E3 to synthetic
    access, merged-draft, and attribution states; require separate containment
    and non-reversible consequence records.

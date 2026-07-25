@@ -236,6 +236,13 @@ when it creates no governance voice. A bounded next inquiry should compare
 documentation/specification licensing and contribution-provenance options,
 then use that result to refine the consent and real-reversibility bundles.
 
+The closed-baseline scope-renewal tabletop in
+`SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md` supplies **Synthetic support** for
+one narrow proposition: material changes in question, source/provenance, claim
+state, review time, or withdrawal consequences need an identifiable renewal or
+stop boundary. It does not establish actual consent, acceptable role terms,
+review capacity, rights, legal sufficiency, or real reversibility.
+
 Joe retains every gate, satisfaction, and activation decision. Until a
 separate ratified decision changes repository truth, no non-Joe person is
 eligible to contribute authoritative effort, decision voice, or

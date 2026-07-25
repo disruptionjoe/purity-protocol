@@ -65,7 +65,7 @@ The current baseline is **Established here** from `CONSTITUTION.md`,
 | 3 | Evidence-gated progressive-decentralization roadmap | **Partial** | `ROADMAP.md#Evidence-gated decentralization direction`; `RESEARCH.md#Governance and capture resistance` | Define candidate states, sequence, evidence thresholds, stop conditions, and legitimate transfer methods without activating them. |
 | 4 | Constitutional and policy rule tiers with amendment processes | **Partial** | `CONSTITUTION.md#Amendment`; `GOVERNANCE.md#Rule tiers`; `DECISIONS.md#Decision method` | Determine whether more tiers are needed and classify unresolved future rules. |
 | 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below; eight-dimension evidence matrix in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md#Real-Reversibility Evidence Matrix` | Test the dimensions against sourced rights, consent, threat, and operating evidence for a proposed future state; the analytical matrix is not proof of reversibility. |
-| 6 | Consent, exit, fork, and attributable-creation principles | **Partial; analytical failure cases now explicit** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability`; `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md` | Test the highest-risk cases synthetically, then define operational disclosures, retained rights, records, obligations, review and appeal boundaries, and portability limits without treating access revocation as full reversal. |
+| 6 | Consent, exit, fork, and attributable-creation principles | **Partial; failure cases and a scope-renewal control are explicit** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability`; `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`; `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md` | Define operational disclosures, retained rights, records, obligations, review and appeal boundaries, and portability limits; the synthetic control does not establish actual consent or make access revocation a full reversal. |
 | 7 | Research agenda for mechanisms, funding, capture resistance, and unresolved rights | **Established here as an agenda; answers unknown** | `RESEARCH.md` | Prioritize inquiries, state methods and evidence standards, and preserve negative results. |
 | 8 | First eligibility-expansion gate | **Partial evidence specification; no gate defined** | required shape in `GOVERNANCE.md#Eligibility changes`; analytical requirements and not-decision-ready disposition in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` | Resolve or explicitly disposition the eight evidence bundles, then draft a separate gate for Joe's review. The specification is not a gate, proposal, satisfaction finding, or activation. |
 
@@ -135,10 +135,13 @@ Before a concrete gate is proposed, Lane 1 should at minimum:
 This is a work specification, not a gate and not an eligibility proposal.
 
 The repository-internal consent, exit, review, and appeal failure-case matrix
-now pressure-tests requirement 4 against synthetic authority confusion, scope
+pressure-tests requirement 4 against synthetic authority confusion, scope
 drift, review concentration, withdrawal after public reliance, provenance
-failure, and jointly created work. It leaves output 6 **Partial** and the gate
-not decision-ready because no active terms, rights posture, legal review,
+failure, and jointly created work. The closed-baseline scope-renewal tabletop
+then resolves representative changes into a cosmetic continuation, a fresh
+hypothetical opt-in boundary, or a separately governed stop. These are
+synthetic controls, not active terms. Output 6 remains **Partial** and the
+gate remains not decision-ready because no rights posture, legal review,
 capacity thresholds, real consent evidence, or reversibility proof exists.
 
 The closed-state authority-confusion tabletop executes the first negative
@@ -178,6 +181,7 @@ Authoritative and current sources used:
 - `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md`
 - `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`
 - `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md`
+- `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`
 - `FOUNDING-INTENTIONS.md` as intent evidence, not protocol specification
