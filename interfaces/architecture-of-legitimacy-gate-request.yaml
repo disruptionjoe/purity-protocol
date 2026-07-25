@@ -2,7 +2,7 @@ dependency_contract_version: '1.0'
 dependency:
   id: purity-phase-0-first-effort-eligibility-gate
   status: commissioned
-  commissioned_at: '2026-07-25'
+  commissioned_at: '2026-07-24'
   commissioned_by: Joe as Purity Protocol governance
   decision_ref: DECISIONS.md#pp-dec-007---commission-first-effort-eligibility-gate-research
   research_owner: architecture-of-legitimacy

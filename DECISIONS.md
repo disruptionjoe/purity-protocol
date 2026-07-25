@@ -114,7 +114,7 @@ replacement. Ordinary decisions cannot amend the Constitution.
 
 ## PP-DEC-007 - Commission first effort-eligibility gate research
 
-- Date: 2026-07-25
+- Date: 2026-07-24
 - Class: ordinary reversible research-relationship decision
 - Authority: Joe direct conversation as Purity Protocol governance after
   unanimous System Council approval
