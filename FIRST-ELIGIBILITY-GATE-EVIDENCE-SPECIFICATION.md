@@ -243,6 +243,12 @@ state, review time, or withdrawal consequences need an identifiable renewal or
 stop boundary. It does not establish actual consent, acceptable role terms,
 review capacity, rights, legal sufficiency, or real reversibility.
 
+The closed-baseline joint-creation provenance tabletop in
+`JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md` supplies **Synthetic
+support** only for a negative control: provenance and attribution uncertainty
+must stop acceptance or portability claims. It does not select a license,
+establish authorship, resolve rights, or create contribution terms.
+
 Joe retains every gate, satisfaction, and activation decision. Until a
 separate ratified decision changes repository truth, no non-Joe person is
 eligible to contribute authoritative effort, decision voice, or

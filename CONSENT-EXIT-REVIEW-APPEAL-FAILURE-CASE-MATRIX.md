@@ -139,8 +139,11 @@ These are next analytical tests, not experiments or authorization:
    to treat queue size, elapsed time, or a clean repository as capacity
    evidence and stops hypothetical intake when provenance, correction, scope,
    authority, or non-reversible-consequence state is unresolved.
-5. **Joint-creation provenance tabletop:** apply P1 and J1 to a synthetic
-   model-assisted draft with pre-existing material and disputed attribution.
+5. **Joint-creation provenance tabletop:** executed as a closed-baseline
+   synthetic control in `JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md`.
+   It refuses acceptance, portability, or attribution conclusions when source,
+   pre-existing material, model assistance, contribution boundary, or acceptance
+   state cannot be reconstructed.
 
 Each future test would need explicit fixtures, pass/fail conditions,
 construction limits, and preserved no-go results. None should use a real
