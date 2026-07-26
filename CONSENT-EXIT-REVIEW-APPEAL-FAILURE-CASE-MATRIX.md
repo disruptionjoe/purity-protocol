@@ -134,9 +134,11 @@ These are next analytical tests, not experiments or authorization:
 3. **Exit-with-public-history tabletop:** apply E1 through E3 to synthetic
    access, merged-draft, and attribution states; require separate containment
    and non-reversible consequence records.
-4. **Review-capacity stop tabletop:** apply A2 and O1 to a synthetic queue;
-   test whether intake stops before correction and provenance state become
-   ambiguous.
+4. **Review-capacity stop tabletop:** executed as a closed-baseline synthetic
+   control in `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`. It refuses
+   to treat queue size, elapsed time, or a clean repository as capacity
+   evidence and stops hypothetical intake when provenance, correction, scope,
+   authority, or non-reversible-consequence state is unresolved.
 5. **Joint-creation provenance tabletop:** apply P1 and J1 to a synthetic
    model-assisted draft with pre-existing material and disputed attribution.
 
