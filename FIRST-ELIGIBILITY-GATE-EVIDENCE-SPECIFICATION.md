@@ -249,6 +249,13 @@ support** only for a negative control: provenance and attribution uncertainty
 must stop acceptance or portability claims. It does not select a license,
 establish authorship, resolve rights, or create contribution terms.
 
+The closed-baseline exit-with-public-history tabletop in
+`EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md` supplies **Synthetic
+support** only for a negative control: prospective stopping and repository
+history cannot be represented as erasing retained knowledge, public history,
+reliance, granted rights, or inseparable creation. It does not establish an
+exit process, rights, remedies, legal sufficiency, or real reversibility.
+
 Joe retains every gate, satisfaction, and activation decision. Until a
 separate ratified decision changes repository truth, no non-Joe person is
 eligible to contribute authoritative effort, decision voice, or

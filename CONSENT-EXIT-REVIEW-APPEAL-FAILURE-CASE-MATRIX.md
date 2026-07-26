@@ -131,9 +131,11 @@ These are next analytical tests, not experiments or authorization:
    changed questions, sources, claim states, model assistance, review delay,
    and withdrawal into continuation, fresh hypothetical opt-in, or a separate
    stop/governance boundary. It establishes no active consent process or role.
-3. **Exit-with-public-history tabletop:** apply E1 through E3 to synthetic
-   access, merged-draft, and attribution states; require separate containment
-   and non-reversible consequence records.
+3. **Exit-with-public-history tabletop:** executed as a closed-baseline
+   synthetic control in `EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md`.
+   It applies E1 through E3 to fictional access, merged-draft, withdrawal,
+   attribution, and fork states; it requires separate containment and visible
+   non-reversible-consequence records without creating exit terms.
 4. **Review-capacity stop tabletop:** executed as a closed-baseline synthetic
    control in `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`. It refuses
    to treat queue size, elapsed time, or a clean repository as capacity
@@ -175,10 +177,8 @@ decision-legible by exposing failure paths and a bounded tabletop sequence. It
 does not supply operational terms, thresholds, rights, legal review, actual
 capacity evidence, participant consent, or reversibility proof.
 
-The closed-baseline authority-confusion tabletop is complete. The next safe
-owner-local branch is the scope-renewal tabletop, which can test when changed
-questions, sources, or revision requests require fresh bilateral opt-in
-without constructing Architecture of Legitimacy's future-role candidates. The
-source-dependent documentation/specification licensing and
-contribution-provenance comparison remains a hard dependency before any rights
-posture or gate could be proposed.
+The executed closed-baseline controls now cover authority confusion,
+scope renewal, review-capacity stopping, joint-creation provenance, and exit
+with public history. The source-dependent documentation/specification licensing
+and contribution-provenance comparison remains a hard dependency before any
+rights posture or gate could be proposed.
