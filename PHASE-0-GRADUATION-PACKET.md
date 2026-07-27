@@ -65,7 +65,7 @@ The current baseline is **Established here** from `CONSTITUTION.md`,
 | 3 | Evidence-gated progressive-decentralization roadmap | **Partial** | `ROADMAP.md#Evidence-gated decentralization direction`; `RESEARCH.md#Governance and capture resistance` | Define candidate states, sequence, evidence thresholds, stop conditions, and legitimate transfer methods without activating them. |
 | 4 | Constitutional and policy rule tiers with amendment processes | **Partial** | `CONSTITUTION.md#Amendment`; `GOVERNANCE.md#Rule tiers`; `DECISIONS.md#Decision method` | Determine whether more tiers are needed and classify unresolved future rules. |
 | 5 | Authority and real-reversibility matrix | **Partial** | current decision classes in `GOVERNANCE.md`; baseline matrix below; eight-dimension evidence matrix in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md#Real-Reversibility Evidence Matrix` | Test the dimensions against sourced rights, consent, threat, and operating evidence for a proposed future state; the analytical matrix is not proof of reversibility. |
-| 6 | Consent, exit, fork, and attributable-creation principles | **Partial; failure cases plus scope-renewal, review-capacity, provenance, and public-history exit controls are explicit** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability`; `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`; `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md`; `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`; `JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md`; `EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md` | Define operational disclosures, retained rights, records, obligations, review and appeal boundaries, and portability limits; synthetic controls do not establish actual consent, capacity, rights, or full reversal. |
+| 6 | Consent, exit, fork, and attributable-creation principles | **Partial; failure cases plus scope-renewal, review-capacity, provenance, and public-history exit controls are explicit** | constitutional principles 1, 5, and 6; `GOVERNANCE.md#Relationship and fork posture`; `RESEARCH.md#Consent, exit, and portability`; `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md`; `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md`; `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`; `JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md`; `EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md`; `RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md` | Define operational disclosures, retained rights, records, obligations, review and appeal boundaries, and portability limits; the primary-source comparison does not establish actual consent, capacity, rights, legal sufficiency, or full reversal. |
 | 7 | Research agenda for mechanisms, funding, capture resistance, and unresolved rights | **Established here as an agenda; answers unknown** | `RESEARCH.md` | Prioritize inquiries, state methods and evidence standards, and preserve negative results. |
 | 8 | First eligibility-expansion gate | **Partial evidence specification; no gate defined** | required shape in `GOVERNANCE.md#Eligibility changes`; analytical requirements and not-decision-ready disposition in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` | Resolve or explicitly disposition the eight evidence bundles, then draft a separate gate for Joe's review. The specification is not a gate, proposal, satisfaction finding, or activation. |
 
@@ -101,7 +101,7 @@ or consent reversal. Future gate work must keep those dimensions separate.
 | Eligibility expansion stays within metabolic capacity | **Unknown** | The evidence bundles in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` require observable capacity indicators, leading and stop thresholds, review intervals, and separate reversibility limits; none is yet established. |
 | Constraint-first protocol law preserves adaptability | **Hypothesized** | Comparative rule designs, edge cases, exploit analysis, amendment behavior, and no-go evidence. |
 | Exit with attributable creation is meaningful | **Unknown; internal failure paths mapped** | `CONSENT-EXIT-REVIEW-APPEAL-FAILURE-CASE-MATRIX.md` identifies synthetic public-history, withdrawal, attribution, review, and joint-creation failures; a rights model still must cover records, names, reputation, data, obligations, jointly created assets, and portability. |
-| Documentation, specification, contribution, and patent rights are safe enough for outside effort | **Unknown** | Chosen rights posture, legal review where necessary, provenance process, contributor disclosure, and explicit adoption decision. |
+| Documentation, specification, contribution, and patent rights are safe enough for outside effort | **Unknown; primary-source features compared** | `RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md` distinguishes limited candidate source features without selecting one. A chosen rights posture, appropriate legal review, provenance process, contributor disclosure, and explicit adoption decision remain required. |
 | Founder-to-broader authority transfer can resist both immediate capture and permanent founder control | **Hypothesized** | Candidate sequence, legitimacy criteria, independent challenge, concentration measures, and real reversal analysis. |
 | Current public visibility, code licensing, merged research, relationships, forks, or automation silently create authority | **Not supported in the tested closed-state authority traces; real-reader behavior unknown** | `AUTHORITY-CONFUSION-CLOSED-BASELINE-TABLETOP.md` resolves ten denial cases and one constitutional-change positive control. Future candidate roles still require separate authority, rights, comprehension, and attack testing. |
 
@@ -145,6 +145,12 @@ stops. These are synthetic controls, not active terms. Output 6 remains
 legal review, capacity thresholds, real consent evidence, or reversibility
 proof exists.
 
+`RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md` records a bounded,
+primary-source comparison of possible documentation/specification and
+provenance approaches. It is **External support** for source features and
+transfer limits, not a legal conclusion, recommendation, rights posture,
+contribution rule, or resolution of the gate's rights warning.
+
 The closed-state authority-confusion tabletop executes the first negative
 control from that matrix. The current hierarchy rejects authority by
 visibility, code license, merge, relationship, automation, or fork and exposes
@@ -186,6 +192,7 @@ Authoritative and current sources used:
 - `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`
 - `JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md`
 - `EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md`
+- `RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`
 - `FOUNDING-INTENTIONS.md` as intent evidence, not protocol specification

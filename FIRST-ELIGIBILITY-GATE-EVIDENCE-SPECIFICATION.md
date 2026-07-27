@@ -232,9 +232,12 @@ Current disposition: **not decision-ready**.
 
 The rights/provenance bundle is the earliest hard dependency because outside
 authoritative effort can create legal and retained-creation consequences even
-when it creates no governance voice. A bounded next inquiry should compare
-documentation/specification licensing and contribution-provenance options,
-then use that result to refine the consent and real-reversibility bundles.
+when it creates no governance voice. The bounded primary-source comparison in
+`RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md` distinguishes several
+candidate source features and their transfer limits. It supplies **External
+support** only; it selects no license, contribution-provenance method, patent
+posture, role, or rights answer. The bundle remains **Unknown** pending a
+separately authorized decision boundary and appropriate review.
 
 The closed-baseline scope-renewal tabletop in
 `SCOPE-RENEWAL-CLOSED-BASELINE-TABLETOP.md` supplies **Synthetic support** for
