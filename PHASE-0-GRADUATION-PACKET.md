@@ -208,7 +208,7 @@ Authoritative and current sources used:
 
 Material traceability finding used for this reconciliation:
 
-- `runs/RUN-20260723-203117-discovery.md`
+- `system-runtime#meta/runs/history/repositories/purity-protocol/runs/RUN-20260723-203117-discovery.md`
 
 Update or re-evaluate this packet whenever a cited authority, current-state,
 research, gate, rights, or risk surface materially changes. Preserve the claim

@@ -41,9 +41,9 @@ A lower layer may narrow or explain a higher one but cannot amend it.
 
 ## Direct mount and CapacityOS
 
-This repository must remain operable from its own files without CapacityOS.
-When routed through CapacityOS, the System-owned steward and mailbox may narrow
-integration behavior but never broaden repository authority or replace local
+This repository remains self-describing state without CapacityOS. When routed
+through CapacityOS, the generic System execution-steward contract and mailbox
+may narrow behavior but never broaden repository authority or replace local
 truth.
 
 Joe activated the existing `cai_directed` Repository Work Cycle scope on
@@ -53,9 +53,8 @@ trigger, workflow, cadence, external-action authority, or governance right.
 Every run remains narrowed by the repository's authority hierarchy and the
 CapacityOS deny-wins safety intersection.
 
-Before writes, resolve `git rev-parse --git-path capacityos-writer.lock`. If
-that path exists, stop unless the active approved run owns it. Never discard
-user work.
+CapacityOS writes follow the central claim and envelope rules in the System
+Execution Boundary below. Never discard user work.
 
 ## Work model
 
@@ -68,6 +67,33 @@ Lane completion, agent confidence, or test passage cannot graduate Phase 0.
 ## Versioning
 
 After an authorized coherent change, validate, commit, and push the current
-branch when no lock, unrelated work, failed check, or explicit hold prevents
+branch when no conflicting central claim or live writer, unrelated work,
+failed check, or explicit hold prevents
 it. GitHub history is the recovery surface. Do not force-push or delete the
 default branch.
+
+## System Execution Boundary
+
+This repository owns its purpose, governance, authoritative work and Lane
+state, domain methods, code and artifacts, evidence, validation, and acceptance
+decisions. Those surfaces are repository state; System execution does not copy
+or overrule their truth.
+
+A governed CapacityOS execution starts from the Brain or CapacityOS entrypoint.
+System Runtime owns its complete execution envelope, working Run Plan,
+lifecycle trace, central owner claim, receipt, execution history, and transport
+under `repos/private/system-runtime/`. Before the first owner write, validate
+the closed envelope and acquire the owner key through
+`repository-execution-claim.sh`; hold it through owner commit and push
+verification, then release it before final Runtime integration.
+
+A direct repository mount may inspect state or perform explicitly
+human-directed non-System work under this repository's governance. It is not a
+governed CapacityOS Run and must not create repository-local CapacityOS plans,
+receipts, claims, or execution memory. Runtime records execution and returns a
+result to the named owner; it cannot decide domain truth, method validity, or
+acceptance.
+
+Pre-cutover execution-like files retained in this repository are frozen domain
+or publication evidence only when listed by checksum in the Runtime migration
+manifest. New or changed CapacityOS execution records belong in Runtime.
