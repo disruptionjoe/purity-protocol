@@ -95,7 +95,7 @@ or consent reversal. Future gate work must keep those dimensions separate.
 
 | risk | current claim status | evidence needed before a gate could rely on it |
 |---|---|---|
-| Sybil behavior, collusion, farming, conformity, strategic ignorance, and model manipulation | **Unknown** | Threat model, bounded synthetic tests, failure criteria, and preserved negative results. |
+| Sybil behavior, collusion, farming, conformity, strategic ignorance, and model manipulation | **Unknown; closed-baseline authority stops synthetically tested** | `CAPTURE-AND-INTEGRITY-CLOSED-BASELINE-TABLETOP.md` shows that representative pressure paths cannot create an unrecorded acceptance or authority route. Threat model, candidate-specific tests, failure criteria, and real-world evidence remain required. |
 | Paid participation produces useful rather than noisy signal | **Hypothesized** | Defined signal target, comparison baseline, incentive model, adversarial tests, and stop indicators. |
 | System-native issuance or another funding mechanism is sustainable and legitimate | **Hypothesized** | Unit-of-account definition, distributional analysis, capture/extraction tests, alternatives, and governance authority. |
 | Eligibility expansion stays within metabolic capacity | **Unknown** | The evidence bundles in `FIRST-ELIGIBILITY-GATE-EVIDENCE-SPECIFICATION.md` require observable capacity indicators, leading and stop thresholds, review intervals, and separate reversibility limits; none is yet established. |
@@ -160,6 +160,14 @@ candidate, establish how a real reader understands the repository, resolve the
 rights warning, or change Architecture of Legitimacy's commissioned research
 ownership.
 
+The closed-baseline capture-and-integrity tabletop extends that negative
+control to representative pressure paths: apparent support, status, free work,
+merged analysis, citation, sponsorship, opaque sources, dependence, and review
+delay. It supplies **Synthetic support** only that the current closed baseline
+does not turn those paths into an unrecorded authority or acceptance route. It
+does not prove resistance to capture or collusion, establish mitigation,
+measure capacity, or make any future role decision-ready.
+
 ## Graduation Decision Surface
 
 Current advisory disposition: **continue Phase 0**.
@@ -192,6 +200,7 @@ Authoritative and current sources used:
 - `REVIEW-CAPACITY-STOP-CLOSED-BASELINE-TABLETOP.md`
 - `JOINT-CREATION-PROVENANCE-CLOSED-BASELINE-TABLETOP.md`
 - `EXIT-WITH-PUBLIC-HISTORY-CLOSED-BASELINE-TABLETOP.md`
+- `CAPTURE-AND-INTEGRITY-CLOSED-BASELINE-TABLETOP.md`
 - `RIGHTS-AND-PROVENANCE-SOURCE-BOUNDARY-COMPARISON.md`
 - `LANES.yaml`
 - `LANE-STATE.yaml`

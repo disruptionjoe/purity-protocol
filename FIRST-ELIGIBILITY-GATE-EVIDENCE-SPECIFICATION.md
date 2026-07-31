@@ -259,6 +259,14 @@ history cannot be represented as erasing retained knowledge, public history,
 reliance, granted rights, or inseparable creation. It does not establish an
 exit process, rights, remedies, legal sufficiency, or real reversibility.
 
+The closed-baseline capture-and-integrity tabletop in
+`CAPTURE-AND-INTEGRITY-CLOSED-BASELINE-TABLETOP.md` supplies **Synthetic
+support** only for a negative control: apparent support, status, free work,
+merged research, citation, sponsorship, or review delay cannot create an
+unrecorded authority or acceptance path. It does not establish resistance to
+sybils, collusion, capture, exclusion, information asymmetry, reviewer
+concentration, or a safe future role.
+
 Joe retains every gate, satisfaction, and activation decision. Until a
 separate ratified decision changes repository truth, no non-Joe person is
 eligible to contribute authoritative effort, decision voice, or
